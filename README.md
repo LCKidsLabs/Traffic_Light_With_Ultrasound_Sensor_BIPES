@@ -24,7 +24,7 @@ https://lckidslabs.com/electronics-programming-base-kit
         <b>(1) RASPBERRY PI PICO H or RASPBERRY PI PICO WH</b>
       </div>
       <div>
-      <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboard.webp?raw=true" alt="breadboard" width = 50%;></img>
+      <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/raspberryPiPicoW.webp?raw=true" alt="breadboard" width = 50%;></img>
       </div>
     </td>
   </tr>
@@ -34,14 +34,29 @@ https://lckidslabs.com/electronics-programming-base-kit
         <b>(1) ULTRASONIC DISTANCE SENSOR</b>
       </div>
       <div>
-      <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboard.webp?raw=true" alt="breadboard" width = 50%;></img>
+      <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/ultrasonicDistanceSensor.webp?raw=true" alt="breadboard" width = 50%;></img>
     </td>
     <td>
       <div>
         <b>(1) RED LED, (1) YELLOW LED, (1) GREEN LED</b>
       </div>
       <div>
-      <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboard.webp?raw=true" alt="breadboard" width = 50%;></img>
+      <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/leds.webp?raw=true" alt="breadboard" width = 50%;></img>
+      </div>
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td>
+      <div>
+        <b>(3) 330 ohm RESISTOR</b>
+      </div>
+      <div>
+      <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/resistors330ohm.webp?raw=true" alt="breadboard" width = 50%;></img>
+    </td>
+    <td>
+      <div>
+        <b>Wires</b>
       </div>
     </td>
   </tr>
