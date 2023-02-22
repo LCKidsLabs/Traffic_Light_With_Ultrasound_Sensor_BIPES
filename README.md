@@ -76,7 +76,7 @@
         <b>LEFT UPPER</b>
       </div>
     </td>
-    <td rowspan="2" width = 100%;>
+    <td rowspan="2" width = 50%;>
       <div>
         <b>(3) 330 ohm RESISTOR</b>
       </div>
