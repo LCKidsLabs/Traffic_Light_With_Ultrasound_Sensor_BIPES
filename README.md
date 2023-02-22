@@ -69,7 +69,7 @@
   <h2>BEADBOARD DESIGN:</h2>
 </p>
 
-<table>
+<table width = 100%;>
   <tr>
     <td width = 25%;>
       <div>
@@ -105,5 +105,5 @@
 </table>
 
 <p align="center">
-  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboardLayout.webp?raw=true" alt="Page Title eith logo"/>
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboardLayout.webp?raw=true" alt="Page Title eith logo" width = 100%;/>
 </p>
