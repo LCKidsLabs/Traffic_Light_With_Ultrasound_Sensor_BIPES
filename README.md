@@ -71,7 +71,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width = 50%;>
       <div>
         <b>LEFT UPPER</b>
       </div>
@@ -84,7 +84,7 @@
         <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboardwithwires.webp?raw=true" alt="330 ohm RESISTOR"></img>
       </div>
     </td>
-    <td>
+    <td width = 50%;>
       <div>
         <b>RIGHT UPPER</b>
       </div>
@@ -96,7 +96,7 @@
         <b>LEFT UPPER</b>
       </div>
     </td>
-    <td>
+    <td width = 50%;>
       <div>
         <b>RIGHT UPPER</b>
       </div>
