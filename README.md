@@ -104,3 +104,6 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboardLayout.webp?raw=true" alt="Page Title eith logo"/>
+</p>
