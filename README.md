@@ -91,7 +91,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width = 25%;>
       <div>
         <b>LEFT UPPER</b>
       </div>
