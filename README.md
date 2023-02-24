@@ -141,5 +141,12 @@
   <h2>Raspberry PI Pico W board pinout:</h2>
 </p>
 <p align="center">
-  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/picow-pinout.svg?raw=true" alt="Raspberry PI Pico W board pinout";/>
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/picow-pinout.svg?raw=true" alt="Raspberry PI Pico W board pinout"; width = 100%;/>
+</p>
+
+<p>
+  <h2>Raspberry PI Pico W board pinout:</h2>
+</p>
+<p align="center">
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/conpletedCode.webp?raw=true" alt="Completed Code";/>
 </p>
