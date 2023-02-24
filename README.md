@@ -135,3 +135,11 @@
 <p align="center">
   <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/connectingProgrammingCable.webp?raw=true" alt="ultrasonic Distance Sensor On Bradboard";/>
 </p>
+
+
+<p>
+  <h2>Raspberry PI Pico W board pinout:</h2>
+</p>
+<p align="center">
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/picow-pinout.svg?raw=true" alt="Raspberry PI Pico W board pinout";/>
+</p>
