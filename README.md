@@ -126,5 +126,12 @@
   <h2>ADD ULTRASONIC DISTANCE SENSOR:</h2>
 </p>
 <p align="center">
-  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/ultrasonicDistanceSensorOnBradboard.webp?raw=true" alt="ultrasonic Distance Sensor On Bradboard" width = 100%;/>
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/ultrasonicDistanceSensorOnBradboard.webp?raw=true" alt="ultrasonic Distance Sensor On Bradboard";/>
+</p>
+
+<p>
+  <h2>CONNECTING THE USB CABLE FOR PROGRAMMING:</h2>
+</p>
+<p align="center">
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/connectingProgrammingCable.webp?raw=true" alt="ultrasonic Distance Sensor On Bradboard";/>
 </p>
