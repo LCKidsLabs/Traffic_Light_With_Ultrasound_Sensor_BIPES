@@ -147,7 +147,13 @@
 <p>
   <h2>WRITING THE CODE:</h2>
 </p>
+<div>
 This is what you project will look like at then end of the project
+</div>
 <p align="center">
   <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/conpletedCode.webp?raw=true" alt="Completed Code";/>
 </p>
+
+<div>
+Navigate to https://bipes.net.br/pico/ui/
+</div>
