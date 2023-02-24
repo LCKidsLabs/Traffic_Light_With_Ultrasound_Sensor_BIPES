@@ -105,13 +105,26 @@
 </table>
 
 <p align="center">
-  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboardLayout.webp?raw=true" alt="Page Title eith logo" width = 100%;/>
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboardLayout.webp?raw=true" alt="Breadboard Layout" width = 100%;/>
 </p>
 
+<p>
+  <h2>BEADBOARD WIRING:</h2>
+</p>
 <p align="center">
-  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboardwithwiresRight.webp?raw=true" alt="Page Title eith logo" width = 100%;/>
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboardwithwiresRight.webp?raw=true" alt="Breadboard With Wires" width = 100%;/>
 </p>
 
+<p>
+  <h2>ADDING LEDs AND RESISTOR:</h2>
+</p>
 <p align="center">
-  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboardwithwiresandleds.webp?raw=true" alt="Page Title eith logo" width = 100%;/>
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/breadboardwithwiresandleds.webp?raw=true" alt="Breadboard With Wires and LEDs" width = 100%;/>
+</p>
+
+<p>
+  <h2>ADD ULTRASONIC DISTANCE SENSOR:</h2>
+</p>
+<p align="center">
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/ultrasonicDistanceSensorOnBradboard.webp?raw=true" alt="ultrasonic Distance Sensor On Bradboard" width = 100%;/>
 </p>
