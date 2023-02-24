@@ -145,8 +145,9 @@
 </p>
 
 <p>
-  <h2>Raspberry PI Pico W board pinout:</h2>
+  <h2>WRITING THE CODE:</h2>
 </p>
+This is what you project will look like at then end of the project
 <p align="center">
   <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/conpletedCode.webp?raw=true" alt="Completed Code";/>
 </p>
