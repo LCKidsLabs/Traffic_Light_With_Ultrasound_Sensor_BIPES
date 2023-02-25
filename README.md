@@ -155,13 +155,41 @@ This is what you project will look like at then end of the project
 </p>
 
 <div>
-Navigate to https://bipes.net.br/pico/ui/
+  Navigate to https://bipes.net.br/pico/ui/
 </div>
 <p align="center">
   <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/CodeStep001.webp?raw=true" alt="Code Step 001"; width = 100%;/>
 </p>
 
+<div>
+  Change your controller type to a “Raspberry PI Pico”
+</div>
+</div>
+<p align="center">
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/CodeStep002.webp?raw=true" alt="Code Step 002"; width = 100%;/>
+</p>
+
+<div>
+  Enter your name and set the project name to “Traffic Light”
 </div>
 <p align="center">
   <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/bipesChangeToRaspberryPiPicoW.webp?raw=true" alt="Code Step 001"; width = 100%;/>
 </p>
+
+<div>
+  Change your controller type to a “Raspberry PI Pico”
+</div>
+</div>
+<p align="center">
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/CodeStep003.webp?raw=true" alt="Code Step 003"; width = 100%;/>
+</p>
+
+<div>
+  type distance and click OK
+</div>
+</div>
+<p align="center">
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/CodeStep004.webp?raw=true" alt="Code Step 004"; width = 100%;/>
+</p>
+
+
