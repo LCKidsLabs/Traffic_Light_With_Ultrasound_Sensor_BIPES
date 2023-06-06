@@ -177,14 +177,6 @@ This is what you project will look like at then end of the project
 </p>
 
 <div>
-  Change your controller type to a “Raspberry PI Pico”
-</div>
-</div>
-<p align="center">
-  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/CodeStep003.webp?raw=true" alt="Code Step 003"; width = 100%;/>
-</p>
-
-<div>
   type distance and click OK
 </div>
 </div>
@@ -197,7 +189,7 @@ This is what you project will look like at then end of the project
 </div>
 </div>
 <p align="center">
-  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/CodeStep005.webp?raw=true" alt="Code Step 005"; width = 100%;/>
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/AddDistanceVariable.webp?raw=true" alt="Add Distance Variable"; width = 100%;/>
 </p>
 
 
