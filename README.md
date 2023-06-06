@@ -192,4 +192,12 @@ This is what you project will look like at then end of the project
   <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/CodeStep004.webp?raw=true" alt="Code Step 004"; width = 100%;/>
 </p>
 
+<div>
+  type distance and click OK
+</div>
+</div>
+<p align="center">
+  <img src="https://github.com/LCKidsLabs/Traffic_Light_With_Ultrasound_Sensor_BIPES/blob/main/res/CodeStep005.webp?raw=true" alt="Code Step 005"; width = 100%;/>
+</p>
+
 
